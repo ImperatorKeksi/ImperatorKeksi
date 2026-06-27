@@ -4,7 +4,7 @@
      HEADER — Animated Gradient Banner
      ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Nico%20Kaschube&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20In%20Ausbildung&descSize=15&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Nico%20Kaschube&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Berlin&descSize=15&descAlignY=52"/>
 
 <!-- ═══════════════════════════════════════════════════════════════
      HERO SECTION
@@ -14,93 +14,106 @@
 
 **Full Stack Developer** aus Berlin 🇩🇪
 
-🎓 Aktuell in Ausbildung &middot; 🎮 Gaming & Coding &middot; 📍 Berlin &middot; 🎂 02.02.2006
+🎓 Aktuell in Ausbildung &middot; 💻 Full Stack & DevOps &middot; 📍 Berlin &middot; 🎂 02.02.2006
+
+<a href="https://github.com/ImperatorKeksi/ImperatorKeksi/blob/main/Lebenslauf.pdf">
+  <img src="https://img.shields.io/badge/📄%20Lebenslauf-Download-4ade80?style=for-the-badge&labelColor=0d1117" height="32"/>
+</a>
+<a href="https://nico.codes">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Besuchen-f97316?style=for-the-badge&labelColor=0d1117" height="32"/>
+</a>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     ÜBER MICH — About Section
+     ABOUT — Über mich
      ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Über mich
 
-Ich bin ein leidenschaftlicher **Full Stack Developer** aus Berlin. Ich entwickle Webseiten, Bots, Tools und Spiele-Mods — von der Idee bis zur fertigen Umsetzung. Mein Fokus liegt auf **sauberem Code**, **modernen Technologien** und **kreativen Lösungen**.
-
-### Was mich antreibt
+Ich bin ein leidenschaftlicher **Full Stack Developer** mit 20 Jahren aus Berlin. Meine Reise begann durch Neugier auf Hardware und Code — heute baue ich komplette Webanwendungen, Bots, Server-Infrastrukturen und Open-Source-Tools.
 
 <div align="center">
 
 | | |
 |:---:|:---:|
-| 💻 | **Full Stack Development** — Von Frontend bis Backend, von Datenbank bis Deployment |
-| 🎮 | **Game Development** — Spiele-Mods, HUDs, Custom Systems |
-| 🌐 | **Open Source** — Mein Code ist frei verfügbar und erweiterbar |
-| 🎨 | **Design** — Dark Mode, moderne UI/UX, responsive Design |
-| 🔧 | **DevOps** — Server, Docker, CI/CD, Cloud |
-| 🤖 | **Bot Development** — Automatisierung, Musik-Bots, Chat-Bots |
+| 💻 | **Full Stack Development** — Frontend bis Backend, von API bis Deployment |
+| 🎮 | **Bot Development** — Highrise-Bot mit Musik-Streaming und 500+ Emotes |
+| 🌐 | **Web Anwendungen** — Dashboards, Tools, Spiele, Portfolio |
+| 🔧 | **DevOps & Server** — Ubuntu, Docker, BorgBackup, Cloudflare Tunnels |
+| 📻 | **Streaming** — Icecast2 Radio, ffmpeg, yt-dlp Integration |
+| 🔒 | **Security** — UFW, Fail2ban, SSH-Only Zugang, Verschlüsselung |
 
 </div>
 
-### Meine Philosophie
+### 💡 Meine Philosophie
 
-> **"Code sollte nicht nur funktionieren — er sollte auch gut aussehen, gut dokumentiert sein und anderen helfen, zu lernen."**
+> **"Code sollte nicht nur funktionieren — er sollte auch gut aussehen, gut strukturiert sein und anderen helfen, zu lernen."**
 
-Ich veröffentliche meine Projekte **Open Source**, damit andere davon lernen, sie erweitern und weiterentwickeln können. Eine einfache Quellenangabe reicht mir völlig — aber bitte niemals als eigene Originalentwicklung ausgeben.
+Ich veröffentliche meine Projekte **Open Source**, damit andere davon lernen, sie erweitern und weiterentwickeln können. Eine einfache Quellenangabe reicht mir völlig — aber bitte **nicht als eigene Originalentwicklung ausgeben oder verkaufen**.
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| ✅ | **Frei nutzen** — privat und kommerziell |
+| ✅ | **Lernen** — gerne als Lernmaterial nutzen |
+| ✅ | **Weiterentwickeln** — forking und contributions willkommen |
+| ✅ | **Quellen angeben** — einfach "Code von [ImperatorKeksi](https://github.com/ImperatorKeksi)" |
+| ❌ | **Nicht als eigenes ausgeben** — kein claimen von Originalarbeit |
+| ❌ | **Nicht weiterverkaufen** — kein Resale als eigenes Produkt |
+
+</div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TECH STACK — Skills Section
+     TECH STACK
      ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
-</div>
-
-### Frontend Development
+### Frontend
 
 <div align="center">
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/> |
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/> |
+| <sub><b>HTML5</b></sub> | <sub><b>CSS3</b></sub> | <sub><b>JavaScript</b></sub> | <sub><b>TypeScript</b></sub> |
+| <sub><b>React</b></sub> | <sub><b>Vue.js</b></sub> | <sub><b>Three.js</b></sub> | <sub><b>Sass</b></sub> |
 
 </div>
 
-### Backend Development
+### Backend
 
 <div align="center">
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> |
-| <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge" height="30"/> | <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30"/> |
-| <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/> | | |
+| <sub><b>Python</b></sub> | <sub><b>FastAPI</b></sub> | <sub><b>Flask</b></sub> | <sub><b>asyncio</b></sub> |
+| <sub><b>Node.js</b></sub> | <sub><b>PHP</b></sub> | <sub><b>C / C++</b></sub> | <sub><b>COBOL</b></sub> |
+| <sub><b>Shell/Bash</b></sub> | <sub><b>Lua</b></sub> | | |
 
 </div>
 
-### Tools & DevOps
+### DevOps & Infrastructure
 
 <div align="center">
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/> | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="30"/> |
-| <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Icecast-0055D4?style=for-the-badge" height="30"/> | <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/BorgBackup-FF6B35?style=for-the-badge" height="30"/> |
-| <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/Flask_Cors-000000?style=for-the-badge" height="30"/> | | |
+| <sub><b>Ubuntu</b></sub> | <sub><b>Docker</b></sub> | <sub><b>PM2</b></sub> | <sub><b>Cloudflare</b></sub> |
+| <sub><b>Nginx</b></sub> | <sub><b>Icecast2</b></sub> | <sub><b>BorgBackup</b></sub> | <sub><b>FFmpeg</b></sub> |
+| <sub><b>UFW</b></sub> | <sub><b>Fail2ban</b></sub> | <sub><b>MongoDB</b></sub> | <sub><b>yt-dlp</b></sub> |
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     PROJEKTE — Projects Section
+     PROJEKTE — Projects Overview
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -109,54 +122,69 @@ Ich veröffentliche meine Projekte **Open Source**, damit andere davon lernen, s
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/ImperatorKeksi/Highrise-Bot-DJ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ImperatorKeksi&repo=Highrise-Bot-DJ&theme=radical&hide_border=true&bg_color=0d1117"/>
-</a>
-
-</div>
-
 ---
 
-### 🎵 [Highrise-Bot-DJ](https://github.com/ImperatorKeksi/Highrise-Bot-DJ) — Musik-Bot mit Radio-Streaming
+### 🤖 [Highrise-Bot](https://github.com/ImperatorKeksi/Highrise-Bot) — Musik + Emotes Bot
 
-> Vollautomatischer Musik-Bot für Highrise mit Icecast-Radio-Streaming
+> Vollständiger Bot für Highrise mit Musik-Streaming via Icecast2, Emote-System mit 500+ Emotes, Gold-Economy, Web-Dashboard und Radio-Stream
 
 <div align="center">
 
 | | |
 |:---:|:---:|
-| 🎶 | YouTube-Musik-Streaming via Icecast2 (MP3 128kbps, 44100Hz, Stereo) |
-| 📋 | Auto-Playlist von YouTube-Playlists — automatisch einlesen und durchspielen |
-| 🌐 | Web-Dashboard mit 5 Tabs (Dashboard, Einstellungen, Spieler, Logs, Datenbank) |
-| 💰 | In-Game Gold-System mit konfigurierbaren Belohnungen |
-| 🛡️ | YouTube Rate-Limit Handling mit exponentiellem Backoff |
-| 🔄 | Crash-Recovery — Queue, Index und gespielte Songs werden gesichert |
-| ⏭️ | Lückenloser Stream mit Pre-Fetch (nächster Song wird im Hintergrund geladen) |
-| 📻 | Öffentlicher Radio-Stream für Discord, Websites oder Jockey |
+| 🎵 | YouTube-Playlists automatisch einspielen & durchspielen |
+| 📻 | Radio-Stream via Icecast2 (MP3 128kbps, Stereo) |
+| 🎭 | 500+ Emotes mit Loop-System (0.5s Intervall) |
+| 💰 | In-Gold-Währung mit konfigurierbarer Verteilung |
+| 🌐 | **Box-Split Architektur** — Music-Bot + Emote-Bot getrennt |
+| 📊 | Web-Panel mit 6 Tabs (Dashboard, Einstellungen, Spieler, Emotes, Logs, DB) |
+| 🛡️ | Crash-Recovery — Queue, Index und gespielte Songs gesichert |
+| ⏭️ | Gapless Playback mit Pre-Fetch |
+| 👥 | Spieler-Management mit VIPs, Mods und Zeit-Tracking |
 
 </div>
 
-**Tech Stack:** `Python` · `Flask` · `Icecast2` · `ffmpeg` · `PM2` · `yt-dlp` · `asyncio`
+**Tech:** `Python` · `asyncio` · `Flask` · `Icecast2` · `ffmpeg` · `PM2` · `yt-dlp` · `Cloudflare Tunnel`
+
+---
+
+### 🎓 [Lehrer-Tools](https://github.com/ImperatorKeksi/Lehrer-Tools) — Digitale Unterrichts-Tools
+
+> Interaktive, barrierefreie & DSGVO-konforme Web-App für Lehrer und Auszubildende — Jeopardy-Quiz, Timer, Stadt-Land-Fluss, Notenrechner & mehr
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🎮 | **Jeopardy-Quiz** — Komplett editierbar mit Kategorien und Punkten |
+| 🎲 | **Aufgabenroulette** — Zufällige Aufgabenvergabe für Schüler |
+| 🏙️ | **Stadt-Land-Fluss** — Digitale Version des Klassikers |
+| ⏱️ | **Timer & Stoppuhr** — Konfigurierbare Unterrichts-Timer |
+| 📊 | **Notenrechner** — Gewichtung, Durchschnitt, Notenspiegel |
+| 🔥 | **PWA-Ready** — Offline nutzbar, installierbar als App |
+| 🔒 | **DSGVO-konform** — Alles läuft clientside, keine Daten werden gesendet |
+
+</div>
+
+**Tech:** `JavaScript` · `CSS3` · `HTML5` · `PWA` · `localStorage`
 
 ---
 
 ### 💻 [KeksOS](https://github.com/ImperatorKeksi/KeksOS) — Custom Linux Shell
 
-> Eigene Shell-Implementierung mit System-Tools und Automatisierung
+> Eigene Shell-Implementierung mit System-Tools und Automatisierungsskripten
 
 <div align="center">
 
 | | |
 |:---:|:---:|
-| 🖥️ | Eigene Shell-Implementierung von Grund auf |
-| 🔧 | System-Tools und Utilities |
+| 🖥️ | Eigene Shell von Grund auf entwickelt |
+| 🔧 | System-Tools und Utilities für Linux |
 | ⚡ | Automatisierungsskripte für den täglichen Einsatz |
 
 </div>
 
-**Tech Stack:** `Shell` · `Bash` · `Linux`
+**Tech:** `Shell` · `Bash` · `Linux`
 
 ---
 
@@ -168,71 +196,53 @@ Ich veröffentliche meine Projekte **Open Source**, damit andere davon lernen, s
 
 | | |
 |:---:|:---:|
-| 🎨 | Modernes, minimalistisches Design |
-| ⚙️ | Konfigurierbare Elemente |
-| 🚀 | Performance-optimiert |
+| 🎨 | Moderne UI-Elemente mit cleanem Design |
+| ⚙️ | Voll konfigurierbare Anzeige-Elemente |
+| 🚀 | Performance-optimiert für 60+ FPS |
 
 </div>
 
-**Tech Stack:** `Lua` · `Game Dev` · `UI Design`
+**Tech:** `Lua` · `Game Dev` · `UI Design`
 
 ---
 
-### 🎮 [Keksi-Kleiderschrank-und-Bodygroup-System](https://github.com/ImperatorKeksi/Keksi-Kleiderschrank-und-Bodygroup-System) — Outfit-System
+### 🎮 [Keksi-Kleiderschrank-und-Bodygroup-System](https://github.com/ImperatorKeksi/Keksi-Kleiderschrank-und-Bodygroup-System)
 
-> Kleiderschrank & Bodygroup System für Spiele
+> Outfit-System mit Bodygroup-Support für Spielecharaktere
 
 <div align="center">
 
 | | |
 |:---:|:---:|
-| 👔 | Outfit-System mit Bodygroups |
+| 👔 | Outfit-Verwaltung mit Bodygroup-Support |
 | 💾 | Speichbar und erweiterbar |
-| 🔌 | Einfache Integration |
+| 🔌 | Einfache Integration in bestehende Projekte |
 
 </div>
 
-**Tech Stack:** `Lua` · `Game Dev`
+**Tech:** `Lua` · `Game Dev`
 
 ---
 
-### 🎮 [Keksi-Deathscreen](https://github.com/ImperatorKeksi/Keksi-Deathscreen) — Custom Deathscreen
+### 💀 [Keksi-Deathscreen](https://github.com/ImperatorKeksi/Keksi-Deathscreen) — Custom Deathscreen
 
-> Modernes Deathscreen-Design für Spiele
+> Modernes Design für Spiel-Todesbildschirme
 
 <div align="center">
 
 | | |
 |:---:|:---:|
-| 💀 | Modernes Deathscreen-Design |
-| ⚙️ | Konfigurierbar |
-| 🪶 | Leichtgewichtig |
+| 💀 | Cleanes Deathscreen-Design |
+| ⚙️ | Voll konfigurierbar |
+| 🪶 | Leichtgewichtig, kein Performance-Impact |
 
 </div>
 
-**Tech Stack:** `Lua` · `Game Dev` · `UI Design`
+**Tech:** `Lua` · `Game Dev` · `UI Design`
 
 ---
 
-### 📝 [Lehrer-Tools](https://github.com/ImperatorKeksi/Lehrer-Tools) — Bildungs-Tools
-
-> Nützliche Tools für Lehrer und den Schulalltag
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🎓 | Tools für den Schulalltag |
-| 🖥️ | Web-basiert und einfach zu bedienen |
-| 📚 | Fokus auf Bildung |
-
-</div>
-
-**Tech Stack:** `JavaScript` · `HTML` · `CSS`
-
----
-
-### 🔬 [Trits-in-Microcode](https://github.com/ImperatorKeksi/Trits-in-Microcode) — Low-Level Computing
+### 🔬 [Trits-in-Microcde](https://github.com/ImperatorKeksi/Trits-in-Microcde) — Low-Level Computing
 
 > Microcode-Implementierung und Low-Level Programming
 
@@ -242,11 +252,11 @@ Ich veröffentliche meine Projekte **Open Source**, damit andere davon lernen, s
 |:---:|:---:|
 | 🔬 | Microcode-Implementierung |
 | 💻 | Low-Level Computing |
-| ⚡ | C/C++ Integration |
+| ⚡ | C/C++ Integration für maximale Performance |
 
 </div>
 
-**Tech Stack:** `C` · `C++` · `Low-Level`
+**Tech:** `C` · `C++` · `Low-Level` · `Microcode`
 
 ---
 
@@ -258,23 +268,54 @@ Ich veröffentliche meine Projekte **Open Source**, damit andere davon lernen, s
 
 | | |
 |:---:|:---:|
-| 🎨 | Moderne Loading-Animations |
-| ✨ | CSS-Animationen |
-| 📱 | Responsive Design |
+| 🎨 | Moderne CSS-Loading-Animations |
+| ✨ | Smooth Übergänge und Keyframe-Animationen |
+| 📱 | Responsive und wiederverwendbar |
 
 </div>
 
-**Tech Stack:** `CSS` · `HTML` · `Animation`
+**Tech:** `CSS` · `HTML` · `Animationen`
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     OPEN SOURCE PHILOSOPHY
+     SERVER & INFRASTRUCTURE
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌐 Open Source Philosophie
+## 🖥️ Mein Server Setup
+
+</div>
+
+Ich betreibe meinen eigenen Server (HP Z600 mit 2x Xeon X5650, 7.2GB RAID1) mit Ubuntu Server 24.04 LTS und diversen Production-Services:
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🔒 | **SSH-Only Zugang** — Kein Passwort, nur ED25519 Keys |
+| 🛡️ | **UFW + Fail2ban** — Firewall und Brute-Force-Schutz |
+| 💾 | **BorgBackup** — Tägliche + wöchentliche Backups mit AES-256 |
+| 🌐 | **Cloudflare Tunnel** — Sichere Web-Einbindung ohne offene Ports |
+| 📻 | **Icecast2** — Radiostreaming für Discord, Web, Jockey |
+| 🎵 | **PM2** — Prozess-Management für Bots und Services |
+| 🐳 | **Docker** — Containerisierte Services |
+| 🔄 **DuckDNS** — Dynamic DNS für dynamische öffentliche IP |
+
+</div>
+
+> 💡 **Mein PC-Build:** [Geizhals Wishlist](https://geizhals.de/wishlists/4343160)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     OPEN SOURCE — Meine Regeln
+     ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 Open Source
 
 </div>
 
@@ -287,9 +328,9 @@ Ich bin ein großer Fan von **Open Source**. Mein Code steht allen frei zur Verf
 | | |
 |:---:|:---:|
 | ✅ | **Frei nutzen** — Den Code verwenden, modifizieren, erweitern |
-| ✅ | **Quellen angeben** — Einfach "Basierend auf [ImperatorKeksi](https://github.com/ImperatorKeksi)" oder "Code von [ImperatorKeksi](https://github.com/ImperatorKeksi)" reinschreiben |
+| ✅ | **Quellen angeben** — Einfach "Code von [ImperatorKeksi](https://github.com/ImperatorKeksi)" reinschreiben |
 | ❌ | **Nicht als eigenes ausgeben** — Nicht behaupten, man hätte alles selbst entwickelt |
-| ❌ | **Nicht verkaufen** — Nicht als eigenes Produkt verkaufen |
+| ❌ | **Nicht verkaufen** — Nicht als eigenes Produkt weiterverkaufen |
 
 </div>
 
@@ -298,41 +339,23 @@ Ich bin ein großer Fan von **Open Source**. Mein Code steht allen frei zur Verf
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     GITHUB STATISTIKEN
+     GITHUB STATISTICS
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📊 GitHub Statistiken
-
-</div>
-
-<div align="center">
+## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImperatorKeksi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperatorKeksi&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperatorKeksi&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117"/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImperatorKeksi&theme=radical&hide_border=true&background=0d1117"/>
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     TROPHÄEN
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 🏆 GitHub Trophäen
-
-</div>
-
-<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ImperatorKeksi&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7"/>
 
@@ -341,52 +364,19 @@ Ich bin ein großer Fan von **Open Source**. Mein Code steht allen frei zur Verf
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     MEIN SETUP
-     ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 💻 Mein Setup
-
-</div>
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| 🖥️ | **Server:** Ubuntu Server 24.04 LTS |
-| 🌐 | **Cloud:** Cloudflare Tunnel (Free Tier) |
-| 📻 | **Streaming:** Icecast2 + ffmpeg |
-| 🤖 | **Bots:** Highrise Bot DJ (Python, PM2) |
-| 💾 | **Backup:** BorgBackup (täglich + wöchentlich) |
-| 🔧 | **Tools:** VS Code, Postman, Docker, Git |
-| 🎨 | **Design:** Figma, Canva |
-| 📋 | **PM:** PM2 Process Manager |
-
-</div>
-
-> 💡 **Mein PC-Build:** [Geizhals Wishlist](https://geizhals.de/wishlists/4343160)
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     KONTAKT
+     CONTACT
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 📫 Kontakt
 
-</div>
-
-<div align="center">
-
 | | |
 |:---:|:---:|
 | 📧 | **Email:** [nicokaschube@gmail.com](mailto:nicokaschube@gmail.com) |
 | 💬 | **Discord:** ImperatorKeksi |
-| 🐙 | **GitHub:** [github.com/ImperatorKeksi](https://github.com/ImperatorKeksi) |
-| 🔗 | **guns.lol:** [guns.lol/imperatorkeksi](https://guns.lol/imperatorkeksi) |
+| 🌐 | **Portfolio:** [nico.codes](https://nico.codes) |
+| 🔗 | **guns.lol:** [imperatorkeksi](https://guns.lol/imperatorkeksi) |
 
 </div>
 
@@ -399,10 +389,6 @@ Ich bin ein großer Fan von **Open Source**. Mein Code steht allen frei zur Verf
 <div align="center">
 
 ## ✍️ Random Dev Quote
-
-</div>
-
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
