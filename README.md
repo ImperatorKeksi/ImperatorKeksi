@@ -16,10 +16,10 @@
 
 🎓 Aktuell in Ausbildung &middot; 💻 Full Stack & DevOps &middot; 📍 Berlin &middot; 🎂 02.02.2006
 
-<a href="https://github.com/ImperatorKeksi/ImperatorKeksi/blob/main/Lebenslauf.pdf">
+<a href="https://circulation-backup-mixing-distribute.trycloudflare.com/lebenslauf.html">
   <img src="https://img.shields.io/badge/📄%20Lebenslauf-Download-4ade80?style=for-the-badge&labelColor=0d1117" height="32"/>
 </a>
-<a href="https://nico.codes">
+<a href="https://circulation-backup-mixing-distribute.trycloudflare.com">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Besuchen-f97316?style=for-the-badge&labelColor=0d1117" height="32"/>
 </a>
 
@@ -375,7 +375,7 @@ Ich bin ein großer Fan von **Open Source**. Mein Code steht allen frei zur Verf
 |:---:|:---:|
 | 📧 | **Email:** [nicokaschube@gmail.com](mailto:nicokaschube@gmail.com) |
 | 💬 | **Discord:** ImperatorKeksi |
-| 🌐 | **Portfolio:** [nico.codes](https://nico.codes) |
+|| 🌐 | **Portfolio:** [circulation-backup-mixing-distribute.trycloudflare.com](https://circulation-backup-mixing-distribute.trycloudflare.com) |
 | 🔗 | **guns.lol:** [imperatorkeksi](https://guns.lol/imperatorkeksi) |
 
 </div>
